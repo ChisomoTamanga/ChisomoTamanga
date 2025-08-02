@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChisomoTamanga
-- 👀 I’m interested in data science and computer programming
-- 🌱 I Currently have knowledge in c# and php and database script language
-- 💞️ I’m looking to collaborate on computer programming
-- 📫 im on chisomotamanga@gmail.com
-regards
+- 👋 Hi, I’m @Chisomo Exton Tamanga
+- 👀 I’m interested in data science, Data Visualisation, Web, Desktop and Application Development
+- 🌱 I'm Proficient in MVC C#, PHP frameworks, Oracle Database, Sqlite, MongoSql, etc
+- 💞️ I’m looking to collaborate In Computer System Development
+- 📫 Emailing : chisomotamanga@gmail.com  WhatsApp/Call : +265 991 208 549
